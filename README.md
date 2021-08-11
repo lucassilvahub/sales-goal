@@ -1,1 +1,3 @@
-# SALES GOAL
+> Status: Under development ⚠️
+
+# Technologies Used
