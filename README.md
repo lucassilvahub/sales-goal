@@ -2,7 +2,7 @@
 
 # Technologies Used
 
-*Python
-*Openpyxl 
-*Pandas
-*Twilio
+* Python
+* Openpyxl 
+* Pandas
+* Twilio
