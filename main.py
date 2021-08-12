@@ -26,7 +26,7 @@ for month in list_months:
         print(
             f"The seller {seller} reached the target of R$55000 in {month}. R${sales} in sales.")
         message = client.messages.create(
-            to="Y",
+            to='Y',
             from_="Z",
             body=f"The seller {seller} reached the target of R$55000 in {month}. R${sales} in sales.")
         print(message.sid)
