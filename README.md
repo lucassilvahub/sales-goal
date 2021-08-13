@@ -32,6 +32,9 @@ Software designed to read sales tables, check if it has reached the sales target
 
 3. Create a free [Twilio](https://www.twilio.com/try-twilio) account; 
 4. Get your account_sid, auth_token and your trial phone number;
+
+    ![3](https://user-images.githubusercontent.com/54152996/129398290-c7198d8a-ba23-4954-99f4-d852c4cb52dc.jpg)
+
 5. add your phone number to receive the SMS;
 6. Update the sales target value in code;
 7. Run.
