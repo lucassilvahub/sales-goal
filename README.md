@@ -4,16 +4,6 @@
 
 Software designed to read sales tables, check if it has reached the sales target, identify the salesperson who hit the sales target and send a SMS notifying that it has reached the target.
 
-## How to run the application:
-
-1. Install all dependencies;
-2. Add your sales sheets for each month;
-3. Create a Twilio account;
-4. Get your account_sid, auth_token and your trial phone number;
-5. add your phone number to receive the SMS;
-6. Update the sales target value in code;
-7. Run.
-
 ## Technologies Used:
 
 <table>
@@ -30,6 +20,16 @@ Software designed to read sales tables, check if it has reached the sales target
     <td>6.63.0</td>
   </tr>
 </table>
+
+## How to run the application:
+
+1. Install all dependencies;
+2. Add your sales sheets for each month;
+3. Create a Twilio account;
+4. Get your account_sid, auth_token and your trial phone number;
+5. add your phone number to receive the SMS;
+6. Update the sales target value in code;
+7. Run.
 
 ## SMS Template:
 
