@@ -12,7 +12,7 @@ Software designed to read sales tables, check if it has reached the sales target
 4. Get your account_sid, auth_token and your trial phone number;
 5. add your phone number to receive the SMS;
 6. Update the sales target value in code;
-7. Run;
+7. Run.
 
 ## Technologies Used:
 
