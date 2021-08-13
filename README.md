@@ -45,10 +45,8 @@ Software designed to read sales tables, check if it has reached the sales target
 5. add your phone number to receive the SMS;
     ```
     if (sales_table['Sales'] > 55000).any():
-        seller = sales_table.loc[sales_table['Sales']
-                                > 55000, "Seller"].values[0]
-        sales = sales_table.loc[sales_table['Sales']
-                                > 55000, "Sales"].values[0]
+        seller = sales_table.loc[sales_table['Sales'] > 55000, "Seller"].values[0]
+        sales = sales_table.loc[sales_table['Sales'] > 55000, "Sales"].values[0]
     ```
 6. Update the sales target value in code;
     ```
