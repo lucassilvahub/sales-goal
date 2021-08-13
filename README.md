@@ -2,6 +2,8 @@
 
 > Status: Finished ✅
 
+### Software designed to read sales tables, check if the sales target has been reached, identify the salesperson who hit the sales target and send an sms notifying that the target has been reached.
+
 # Technologies Used
 
 <table>
