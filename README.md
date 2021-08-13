@@ -33,5 +33,7 @@ Software designed to read sales tables, check if it has reached the sales target
 
 ## SMS Template:
 
+The software identifies and indicates the salesperson who reached the goal and also how much he made in sales
+
 ![git twilio message sales goal](https://user-images.githubusercontent.com/54152996/129395626-f3c77b74-cac6-444c-99d4-ffc46d5573ef.jpeg)
 
