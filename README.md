@@ -32,11 +32,29 @@ Software designed to read sales tables, check if it has reached the sales target
 
 3. Create a free [Twilio](https://www.twilio.com/try-twilio) account; 
 4. Get your account_sid, auth_token and your trial phone number;
-
-    ![3](https://user-images.githubusercontent.com/54152996/129398290-c7198d8a-ba23-4954-99f4-d852c4cb52dc.jpg)
-
+     ```
+    # Your Account SID from twilio.com/console
+    account_sid = "W"
+    
+    # Your Auth Token from twilio.com/console
+    auth_token = "X"
+    
+    # Trial phone number
+    from_="Z",
+    ```    
 5. add your phone number to receive the SMS;
+    ```
+    if (sales_table['Sales'] > 55000).any():
+        seller = sales_table.loc[sales_table['Sales']
+                                > 55000, "Seller"].values[0]
+        sales = sales_table.loc[sales_table['Sales']
+                                > 55000, "Sales"].values[0]
+    ```
 6. Update the sales target value in code;
+    ```
+    # Your phone number
+    to='Y',
+    ```    
 7. Run.
 
 ## SMS Template:
