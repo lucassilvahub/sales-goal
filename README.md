@@ -33,4 +33,5 @@ Software designed to read sales tables, check if it has reached the sales target
 
 ## SMS Template:
 
-![git twilio message sales goal (1)](https://user-images.githubusercontent.com/54152996/129395367-0e03ed6d-7601-42eb-9683-4c2c26085c98.jpeg)
+![git twilio message sales goal](https://user-images.githubusercontent.com/54152996/129395626-f3c77b74-cac6-444c-99d4-ffc46d5573ef.jpeg)
+
