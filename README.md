@@ -1,10 +1,12 @@
-![git header sales goal](https://user-images.githubusercontent.com/54152996/129261426-1510c138-4867-49e5-807c-9373d5104a7a.png)
+![git header sales goal python](https://user-images.githubusercontent.com/54152996/129388901-22bf8432-865d-4c86-8dbe-3a0390819015.png)
 
 > Status: Finished ✅
 
 ### Software designed to read sales tables, check if the sales target has been reached, identify the salesperson who hit the sales target and send an sms notifying that the target has been reached.
 
-# Technologies Used
+## How to run the application:
+
+## Technologies Used:
 
 <table>
   <tr>
