@@ -2,7 +2,7 @@
 
 > Status: Finished ✅
 
-### Software designed to read sales tables, check if the sales target has been reached, identify the salesperson who hit the sales target and send an sms notifying that the target has been reached.
+Software designed to read sales tables, check if it has reached the sales target, identify the salesperson who hit the sales target and send a SMS notifying that it has reached the target.
 
 ## How to run the application:
 
