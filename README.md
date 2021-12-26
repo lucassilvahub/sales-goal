@@ -1,4 +1,4 @@
-![git header sales goal python](https://user-images.githubusercontent.com/54152996/129388901-22bf8432-865d-4c86-8dbe-3a0390819015.png)
+![git header (1)](https://user-images.githubusercontent.com/54152996/147422407-8ac27d29-30fe-4c91-907b-34c5e430de54.png)
 
 > Status: Finished ✅
 
