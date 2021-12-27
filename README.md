@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="https://user-images.githubusercontent.com/54152996/147423264-5afb5e69-75ed-497a-bd85-3e20b96d041b.png" alt="Sales Goal" width="300">
+  <img src="https://user-images.githubusercontent.com/54152996/147423264-5afb5e69-75ed-497a-bd85-3e20b96d041b.png" alt="Sales Goal" width="200">
 <br>
 <br>
   Sales Goal
@@ -8,7 +8,14 @@
 
 > Status: Finished ✅
 
-Software designed to read sales tables, check if it has reached the sales target, identify the salesperson who hit the sales target and send a SMS notifying that it has reached the target.
+<p>Software designed to read sales tables, check if it has reached the sales target, identify the salesperson who hit the sales target and send a SMS notifying that it has reached the target.</p>
+
+<p align="center">![147423264-5afb5e69-75ed-497a-bd85-3e20b96d041b](https://user-images.githubusercontent.com/54152996/147423432-25e2c289-dd79-4a4f-bd72-679a55f4872a.png)
+
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
+  </a>
+</p>
 
 ## Technologies Used:
 
