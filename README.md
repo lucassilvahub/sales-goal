@@ -2,6 +2,11 @@
 
 > Status: Finished ✅
 
+<h1 align="center">
+<br>
+Sales Goal
+</h1>
+
 Software designed to read sales tables, check if it has reached the sales target, identify the salesperson who hit the sales target and send a SMS notifying that it has reached the target.
 
 ## Technologies Used:
