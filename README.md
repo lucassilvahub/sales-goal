@@ -10,6 +10,8 @@
 
 <p>Software designed to read sales tables, check if it has reached the sales goal, identify the salesperson who hit the goal and send a SMS notifying that it has reached the target.</p>
 
+<br>
+
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
