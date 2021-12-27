@@ -1,11 +1,12 @@
-![git_header__2_-removebg-preview](https://user-images.githubusercontent.com/54152996/147422452-df99fdc9-e258-4417-969f-6a049b051dcb.png)
-
-> Status: Finished ✅
-
 <h1 align="center">
 <br>
-Sales Goal
+  <img src="https://user-images.githubusercontent.com/54152996/147423264-5afb5e69-75ed-497a-bd85-3e20b96d041b.png" alt="Sales Goal" width="300">
+<br>
+<br>
+  Sales Goal
 </h1>
+
+> Status: Finished ✅
 
 Software designed to read sales tables, check if it has reached the sales target, identify the salesperson who hit the sales target and send a SMS notifying that it has reached the target.
 
