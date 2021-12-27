@@ -8,7 +8,7 @@
 
 > Status: Finished ✅
 
-<p>Software designed to read sales tables, check if it has reached the sales target, identify the salesperson who hit the sales target and send a SMS notifying that it has reached the target.</p>
+<p>Software designed to read sales tables, check if it has reached the sales goal, identify the salesperson who hit the goal and send a SMS notifying that it has reached the target.</p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
@@ -79,4 +79,8 @@
 * The software identifies and shows through SMS the salesperson who reached the goal and also how much he made in sales
 
 ![git twilio message sales goal](https://user-images.githubusercontent.com/54152996/129395626-f3c77b74-cac6-444c-99d4-ffc46d5573ef.jpeg)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.
 
