@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="https://user-images.githubusercontent.com/54152996/147423264-5afb5e69-75ed-497a-bd85-3e20b96d041b.png" alt="Sales Goal" width="200">
+  <img src="https://user-images.githubusercontent.com/54152996/147424802-379e6773-25f8-403a-83b6-e3fbbb9117c2.gif" alt="Sales Goal" width="200">
 <br>
 <br>
   Sales Goal
